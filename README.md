@@ -8,7 +8,7 @@ For this project, I use pretrained vgg-16 model (vgg16_weights.npz) to test the 
 
 (2) Use tensorboard to produce the histogram of feature maps and weights at layers 1-5 of pretrained vgg-16 for an example input image.
 
-Model weights - [vgg16_weights.npz](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz) (Due to big size, I don't upload it)
+Model weights - [vgg16_weights.npz](https://www.cs.toronto.edu/~frossard/vgg16/vgg16_weights.npz) (Due to big size, I don't upload it. Please download it)
 
 TensorFlow model - vgg16.py
 
